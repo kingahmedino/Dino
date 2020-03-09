@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dino</string>
+    <string name="error_message">Error loading app data</string>
+    <string name="search">Search</string>
+</resources>
